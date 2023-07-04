@@ -1,1 +1,1 @@
-# PG-PPOA-OthelloSolver
+# PG-PPO-OthelloSolver
