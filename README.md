@@ -46,9 +46,15 @@ Run the Code: Once the installations are complete, you can execute the code by r
    ```
 
 <p align="center">
+  <img src="https://github.com/farkoo/PG-PPO-OthelloSolver/blob/master/Trainig-Process.png" alt="Training Process">
+  <br>
+  <em>Figure 1: Training Process</em>
+</p>
+
+<p align="center">
   <img src="https://github.com/farkoo/PG-PPO-OthelloSolver/blob/master/Figure_1.png" alt="Training Progress">
   <br>
-  <em>Figure 1: Training Progress - Win Rate, Average Duration, and Average Reward</em>
+  <em>Figure 2: Training Progress - Win Rate, Average Duration, and Average Reward</em>
 </p>
 
 ## Support
