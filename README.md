@@ -38,11 +38,30 @@ The `main()` function is the entry point of the program. It calls the `train()` 
 
 By following the code structure and running the appropriate functions, you can train an AI agent to play Othello using either the PPO or PG algorithm and evaluate its performance.
 
-## usage
+## Usage
 Run the Code: Once the installations are complete, you can execute the code by running the following command:
 
    ```bash
-   python PG_PPO.py.py
+   python PG_PPO.py
    ```
 
+<p align="center">
+  <img src="https://github.com/farkoo/PG-PPO-OthelloSolver/blob/master/Figure_1.png" alt="Training Progress: Win Rate, Average Duration, and Average Reward">
+</p>
 
+## Support
+
+**Contact me @:**
+
+e-mail:
+
+* farzanehkoohestani2000@gmail.com
+
+Telegram id:
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+
+## License
+[MIT](https://github.com/farkoo/PG-PPO-OthelloSolver/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/farkoo)
